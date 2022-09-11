@@ -1,0 +1,32 @@
+h1 {
+    color: red;
+}
+
+h2 {
+    color: purple;
+}
+
+h3{
+    color: orange;
+}
+.p1 {
+    text-align: center
+}
+
+/* linkler */
+.link, h1, h2, h3 {
+   text-align: center;
+}
+.link a {
+    margin: 15px; 
+}
+.list ul li {
+    margin-left: 800px; 
+   list-style-position: inside;
+}
+.articles{
+     text-align: center;
+}
+.hakkimizda h3{
+     text-align: left;
+}
